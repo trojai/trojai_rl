@@ -14,7 +14,7 @@ on_rtd = os.environ.get('READTHEDOCS') == 'True'
 if on_rtd:
     install_requires = []
 else:
-    install_requires = ['numpy==1.17.4',
+    install_requires = ['numpy==1.22.0',
                         'tqdm>=4.32.1',
                         'torch>=1.4.0',
                         'torch-ac==1.1.0',
