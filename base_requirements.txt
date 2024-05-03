@@ -1,5 +1,5 @@
 numpy==1.17.4
-tqdm==4.32.1
+tqdm==4.66.3
 torch==1.4.0
 torch-ac==1.1.0
 gym==0.15.3
